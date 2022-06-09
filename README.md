@@ -1,5 +1,5 @@
 # awesome-vue-hooks ![awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)![](https://camo.githubusercontent.com/a3a46cf6e9b86345756f800e47a3d24ba217ba4004dd2164a6d4c5168e0c00c9/68747470733a2f2f7777772e747261636b617765736f6d656c6973742e636f6d2f62616467652e737667)
-> Awesome React Hooks Resources
+> Awesome Vue Hooks Resources
 
 ## Tutorials
 
