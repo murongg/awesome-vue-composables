@@ -22,3 +22,4 @@
 - [`vue-timer-hook`](https://github.com/riderx/vue-timer-hook): Vue timer hook is a custom hook, built to handle timer, stopwatch, and time logic/state in your vue 3 component.
 - [`slimeform`](https://github.com/LittleSound/slimeform): Form state management and validation for Vue3
 - [`vue-use-form`](https://github.com/vue-use-form/vue-use-form): Vue Composition API for validating form.
+- [`vue-motion-one`](https://github.com/wobsoriano/vue-motion-one): Animation library for Vue 3 based on Motion One.
