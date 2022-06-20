@@ -24,3 +24,4 @@
 - [`vue-use-form`](https://github.com/vue-use-form/vue-use-form): Vue Composition API for validating form.
 - [`vue-motion-one`](https://github.com/wobsoriano/vue-motion-one): Animation library for Vue 3 based on Motion One.
 - [`vagmi`](https://github.com/wobsoriano/vagmi): Vue composables for Ethereum
+- [`vue-promised`](https://github.com/posva/vue-promised): 💝 Composable Promises & Promises as components
