@@ -25,3 +25,4 @@
 - [`vue-motion-one`](https://github.com/wobsoriano/vue-motion-one): Animation library for Vue 3 based on Motion One.
 - [`vagmi`](https://github.com/wobsoriano/vagmi): Vue composables for Ethereum
 - [`vue-promised`](https://github.com/posva/vue-promised): 💝 Composable Promises & Promises as components
+- [`v-lottie`](https://github.com/murongg/v-lottie): Vue composables for Lottie
